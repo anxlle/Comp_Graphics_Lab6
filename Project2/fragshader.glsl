@@ -40,5 +40,4 @@ vec3 Specular = light_1.Specular * (ref * mat_1.Specular);
 
 vec3 result = Ambient + Diffuse + Specular;
 frag_colour = vec4(result, 1.0);
-//frag_colour = vec4((norm + 1.0) / 2.0, 1.0); //дебаг нормалей
 }
