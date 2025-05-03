@@ -1,0 +1,16 @@
+﻿  Project2.cpp
+C:\Users\Дэн.DESKTOP-3TG6UOL\Desktop\Comp_Graphics_Lab6\Project2\Project2.cpp(81,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дэн.DESKTOP-3TG6UOL\Desktop\Comp_Graphics_Lab6\Project2\Project2.cpp(134,26): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\Дэн.DESKTOP-3TG6UOL\Desktop\Comp_Graphics_Lab6\Project2\Project2.cpp(134,21): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\Дэн.DESKTOP-3TG6UOL\Desktop\Comp_Graphics_Lab6\Project2\Project2.cpp(134,16): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\Дэн.DESKTOP-3TG6UOL\Desktop\Comp_Graphics_Lab6\Project2\Project2.cpp(152,51): warning C4305: аргумент: усечение из "double" в "T"
+C:\Users\Дэн.DESKTOP-3TG6UOL\Desktop\Comp_Graphics_Lab6\Project2\Project2.cpp(152,51): warning C4305:         with
+C:\Users\Дэн.DESKTOP-3TG6UOL\Desktop\Comp_Graphics_Lab6\Project2\Project2.cpp(152,51): warning C4305:         [
+C:\Users\Дэн.DESKTOP-3TG6UOL\Desktop\Comp_Graphics_Lab6\Project2\Project2.cpp(152,51): warning C4305:             T=float
+C:\Users\Дэн.DESKTOP-3TG6UOL\Desktop\Comp_Graphics_Lab6\Project2\Project2.cpp(152,51): warning C4305:         ]
+C:\Users\Дэн.DESKTOP-3TG6UOL\Desktop\Comp_Graphics_Lab6\Project2\Project2.cpp(153,51): warning C4305: аргумент: усечение из "double" в "T"
+C:\Users\Дэн.DESKTOP-3TG6UOL\Desktop\Comp_Graphics_Lab6\Project2\Project2.cpp(153,51): warning C4305:         with
+C:\Users\Дэн.DESKTOP-3TG6UOL\Desktop\Comp_Graphics_Lab6\Project2\Project2.cpp(153,51): warning C4305:         [
+C:\Users\Дэн.DESKTOP-3TG6UOL\Desktop\Comp_Graphics_Lab6\Project2\Project2.cpp(153,51): warning C4305:             T=float
+C:\Users\Дэн.DESKTOP-3TG6UOL\Desktop\Comp_Graphics_Lab6\Project2\Project2.cpp(153,51): warning C4305:         ]
+  Project2.vcxproj -> C:\Users\Дэн.DESKTOP-3TG6UOL\Desktop\Comp_Graphics_Lab6\x64\Debug\Project2.exe
